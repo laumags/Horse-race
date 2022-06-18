@@ -1,5 +1,5 @@
 <?php
-$distance = 20;
+$distance = 50;
 $minSpeed = 1;
 $maxSpeed = 3;
 $actionSpeed = 1;
